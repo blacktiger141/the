@@ -1,0 +1,8 @@
+echo -e "\e[96m"
+ echo " "
+ date
+ echo " "
+ echo "                      "⚡B.L.A.C.K.T.I.G.E.R.⚡
+ echo " "
+ echo -e "\e[32m"
+0 comments on commit 8482e3d
